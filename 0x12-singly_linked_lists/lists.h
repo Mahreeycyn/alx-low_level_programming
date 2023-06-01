@@ -9,7 +9,7 @@
  */
 typedef struct  list_s
 {
-char*str;
+char *str;
 unsigned int len;
 struct list_s *next;
 }
